@@ -1,0 +1,7 @@
+C:\Users\ltybj\OneDrive\Desktop\.net\School\School\bin\Debug\School.exe.config
+C:\Users\ltybj\OneDrive\Desktop\.net\School\School\bin\Debug\School.exe
+C:\Users\ltybj\OneDrive\Desktop\.net\School\School\bin\Debug\School.pdb
+C:\Users\ltybj\OneDrive\Desktop\.net\School\School\obj\Debug\School.csproj.AssemblyReference.cache
+C:\Users\ltybj\OneDrive\Desktop\.net\School\School\obj\Debug\School.csproj.CoreCompileInputs.cache
+C:\Users\ltybj\OneDrive\Desktop\.net\School\School\obj\Debug\School.exe
+C:\Users\ltybj\OneDrive\Desktop\.net\School\School\obj\Debug\School.pdb
